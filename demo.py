@@ -1,3 +1,3 @@
 print("hello world")
-print("I changed second line")
+print("second line with spaces")
 print("third line")
